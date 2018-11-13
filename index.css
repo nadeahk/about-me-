@@ -1,9 +1,10 @@
 h1 { color: Pink ;
-  font-style: oblique
+  font-style: oblique; 
+  text-align: center; 
   
 }
 h2{ color: purple; 
-   font-style: oblique
+   font-style: oblique; 
   
  
 }
